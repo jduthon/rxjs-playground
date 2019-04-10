@@ -1,0 +1,18 @@
+{
+  "name": "rxjs-playground",
+  "version": "1.0.0",
+  "description": "A minimal playground to get started playing with rxjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.4.0"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.3"
+  }
+}
