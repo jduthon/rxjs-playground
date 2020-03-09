@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "rxjs": "^6.4.0"
+    "rxjs": "^6.5.0"
   },
   "devDependencies": {
-    "parcel": "^1.12.3"
+    "parcel": "^1.12.4"
   }
 }
